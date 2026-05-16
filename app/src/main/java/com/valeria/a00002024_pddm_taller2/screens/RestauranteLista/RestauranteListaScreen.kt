@@ -9,12 +9,12 @@ import androidx.compose.runtime.Composable
 import com.valeria.a00002024_pddm_taller2.AppScaffold
 
 @Composable
-fun RestauranteLista(){
+fun RestauranteListaScreen(navigateToDetail: (Int) -> Unit, navigateToSearch: () -> Unit) {
     AppScaffold(
         title = "FoodSpot",
         navigationIcon = {
             IconButton(onClick = {
-                //Va a Busqueda Screen
+                navigateToSearch()
             }) {
                 Icon(
                     imageVector = Icons.AutoMirrored.Filled.ManageSearch,
