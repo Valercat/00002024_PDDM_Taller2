@@ -37,7 +37,7 @@ class RestauranteApiRepository : RestauranteRepository {
 
     override suspend fun searchRestaurantes(query: String): List<Restaurant> {
         //si no hay nada en el de busqueda
-        if (query.isBlank()) return restaurantes
+        if (query.isBlank()) {return restaurantes}
                             //filtra
             return restaurantes.filter { restaurante ->
                 //busca los platos dentro de menu por cada restaurante

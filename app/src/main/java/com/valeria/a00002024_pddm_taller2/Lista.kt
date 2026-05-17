@@ -11,7 +11,7 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351",
         categories = listOf("Comida Asiatica"),
         menu = listOf(
-            Dish(1,"California Roll","Cangrejo, aguacate y pepino","https://images.unsplash.com/photo-1604908176997-431f2e7c4c1d"),
+            Dish(1,"California Roll","Cangrejo, aguacate y pepino","https://media.istockphoto.com/id/1932845749/es/foto/rollos-de-sushi-con-salm%C3%B3n-queso-caviar.jpg?s=612x612&w=0&k=20&c=P4E5Ni1Pqx3RORySyMLAZH9WZZMgjK2j4voSoj8_sQ8="),
             Dish(2,"Salmón Nigiri","Arroz con salmón fresco","https://images.unsplash.com/photo-1553621042-f6e147245754"),
             Dish(3,"Tempura Roll","Roll crujiente con camarón","https://images.unsplash.com/photo-1582450871972-ab5ca641643d")
         )
@@ -37,7 +37,7 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
         categories = listOf("Mexicana"),
         menu = listOf(
-            Dish(1,"Tacos al Pastor","Cerdo con piña","https://images.unsplash.com/photo-1601924638867-3ec2f2c7b0d7"),
+            Dish(1,"Tacos al Pastor","Cerdo con piña","https://media.istockphoto.com/id/1131715969/es/foto/una-placa-de-tacos-al-pastor-tortillas-de-ma%C3%ADz-cerdo-afeitado-salsa-pi%C3%B1a-en-rodajas-cilantro.jpg?s=612x612&w=0&k=20&c=X3SUOyO63axNRVIrPB-mCnuxj3vtQCIozVfcp6RwyHw="),
             Dish(2,"Quesadillas","Con queso","https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c"),
             Dish(3,"Nachos","Con guacamole","https://images.unsplash.com/photo-1582169296194-e4d644c48063")
         )
@@ -50,7 +50,7 @@ val sampleRestaurants = listOf(
         imageUrl = "https://media.istockphoto.com/id/1189709277/es/foto/pasta-penne-con-tomate-asado-salsa-queso-mozzarella-fondo-de-piedra-gris-vista-superior.jpg?s=1024x1024&w=is&k=20&c=kFylKGRvAiOXaDvXU_I7MwhGX7yzjYXbPfmhhrYeWwE=",
         categories = listOf("Italiana"),
         menu = listOf(
-            Dish(1,"Spaghetti","Con carne","https://images.unsplash.com/photo-1589308078054-832a2f9c2b5c"),
+            Dish(1,"Spaghetti","Con carne","https://media.istockphoto.com/id/1410128919/es/foto/espaguetis-pasta-bolo%C3%B1esa-servida-en-un-plato-aislado-en-el-fondo-oscuro-vista-de-la-comida.jpg?s=612x612&w=0&k=20&c=a5CWrbqd2k5h7iCtZd5d_yawCvdYgfoCFyQF2ga7-pQ="),
             Dish(2,"Fettuccine","Salsa cremosa","https://images.unsplash.com/photo-1645112411341-6c4fd023714a"),
             Dish(3,"Lasagna","Al horno","https://images.unsplash.com/photo-1619895092538-128341789043")
         )
@@ -65,7 +65,7 @@ val sampleRestaurants = listOf(
         menu = listOf(
             Dish(1,"Ensalada","Fresca","https://images.unsplash.com/photo-1550304943-4f24f54ddde9"),
             Dish(2,"Bowl Vegano","Quinoa","https://images.unsplash.com/photo-1546069901-ba9599a7e63c"),
-            Dish(3,"Wrap","Integral","https://images.unsplash.com/photo-1604908177522-432f6bb1b1d6")
+            Dish(3,"Wrap","Integral","https://media.istockphoto.com/id/941025092/es/foto/rollos-de-pollo.jpg?s=612x612&w=0&k=20&c=gxJQQN4408QZ0NHjMccUZCWtfL5o5j7Me1Aql049r24=")
         )
     ),
 
@@ -76,9 +76,9 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
         categories = listOf("Americana", "Saludable"),
         menu = listOf(
-            Dish(1,"Ribeye","A la parrilla","https://images.unsplash.com/photo-1604908811824-1c4c6b0f1b09"),
+            Dish(1,"Ribeye","A la parrilla","https://media.istockphoto.com/id/587207508/es/foto/filete-a-la-parrilla-en-rodajas-ribeye-con-mantequilla-de-hierbas.jpg?s=612x612&w=0&k=20&c=FpPGPX-jIkIIORr1L40LE-YozmaWbiGlAPeni5qGNhg="),
             Dish(2,"T-Bone","Jugoso","https://images.unsplash.com/photo-1558030006-450675393462"),
-            Dish(3,"Filete","Premium","https://images.unsplash.com/photo-1600891963933-6b0f1b0f8b06")
+            Dish(3,"Filete","Premium","https://media.istockphoto.com/id/972852490/es/foto/filetes-de-solomillo-barbacoa-con-tomillo-fresco.jpg?s=612x612&w=0&k=20&c=mQ6V0z4baSE0ApjLQRkw1vTdy5kejSB_Y2acl8iqeRE=")
         )
     ),
 
@@ -89,8 +89,8 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
         categories = listOf("Americana", "Saludable"),
         menu = listOf(
-            Dish(1,"Camarones","Al ajillo","https://images.unsplash.com/photo-1625944525533-473f1f39d1e3"),
-            Dish(2,"Pulpo","Parrilla","https://images.unsplash.com/photo-1604908176997-431f2e7c4c1d"),
+            Dish(1,"Camarones","Al ajillo","https://media.istockphoto.com/id/1414307299/es/foto/primer-plano-de-mantequilla-de-ajo-camarones-en-sart%C3%A9n.jpg?s=612x612&w=0&k=20&c=KgxUSMwcEyKz9Q91b3YxgU-b9U4w3O9QtNJiMpXfOx0="),
+            Dish(2,"Pulpo","Parrilla","https://media.istockphoto.com/id/1216250666/es/foto/pulpo-frito-sobre-mesa-de-madera.jpg?s=612x612&w=0&k=20&c=Pv9H_DrOTkXPkynPiJCE6jEjPgpcFt4QJO8USh0xH4M="),
             Dish(3,"Pescado","Frito","https://images.unsplash.com/photo-1544025162-d76694265947")
         )
     ),
@@ -102,8 +102,8 @@ val sampleRestaurants = listOf(
         imageUrl = "https://www.gffoodservice.com.au/wp-content/uploads/2021/03/article-hero-banner-asian_fusion-@1x.jpg",
             categories = listOf("Comida Asiatica", "Saludable"),
         menu = listOf(
-            Dish(1,"Pad Thai","Fideos","https://images.unsplash.com/photo-1604908811824-1c4c6b0f1b09"),
-            Dish(2,"Arroz","Frito","https://images.unsplash.com/photo-1604908176997-431f2e7c4c1d"),
+            Dish(1,"Pad Thai","Fideos","https://media.istockphoto.com/id/510163478/es/foto/pad-thai.jpg?s=612x612&w=0&k=20&c=XAAEOs0ElFsoVl7PmhiubI6yKMx9ci5cMczP0dVmNDg="),
+            Dish(2,"Arroz","Frito","https://media.istockphoto.com/id/945606006/es/foto/arroz-frito-de-pollo.jpg?s=612x612&w=0&k=20&c=Esli_5JhEAB5io0KlKcXP5RcaP2pZphOqc-zTJbk6P8="),
             Dish(3,"Teriyaki","Pollo","https://images.unsplash.com/photo-1553621042-f6e147245754")
         )
     ),
@@ -113,7 +113,7 @@ val sampleRestaurants = listOf(
         name = "Coffee Corner",
         description = "Café y postres",
         imageUrl = "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
-        categories = listOf("Saludable", "Italiana"),
+        categories = listOf("Panaderia", "Italiana"),
         menu = listOf(
             Dish(1,"Capuccino","Espuma","https://images.unsplash.com/photo-1511920170033-f8396924c348"),
             Dish(2,"Cheesecake","Cremoso","https://images.unsplash.com/photo-1551024601-bec78aea704b"),
@@ -128,9 +128,9 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1558030006-450675393462",
         categories = listOf("Americana", "Mexicana"),
         menu = listOf(
-            Dish(1,"Costillas","BBQ","https://images.unsplash.com/photo-1600891963933-6b0f1b0f8b06"),
-            Dish(2,"Pollo","Parrilla","https://images.unsplash.com/photo-1604908811824-1c4c6b0f1b09"),
-            Dish(3,"Chorizo","Asado","https://images.unsplash.com/photo-1604908176997-431f2e7c4c1d")
+            Dish(1,"Costillas","BBQ","https://media.istockphoto.com/id/1086140442/es/foto/closeup-de-costillas-de-cerdo-a-la-parrilla-con-salsa-bbq-y-caramelizado-en-miel-sabroso.jpg?s=612x612&w=0&k=20&c=q-jhX4_Ljdp6px2N7T-JpZvFSW-fAM3iV300HPo6aoo="),
+            Dish(2,"Pollo","Parrilla","https://media.istockphoto.com/id/622185412/es/foto/filetes-de-pollo-frito-y-verduras-sobre-fondo-de-madera.jpg?s=612x612&w=0&k=20&c=M_ref9PT9JVvFPAtyv9TZ-Rwho6gAyHjvXkH4dI-8Rw="),
+            Dish(3,"Chorizo","Asado","https://media.istockphoto.com/id/876611828/es/foto/espa%C3%B1ol-a-la-parrilla-salchichas.jpg?s=612x612&w=0&k=20&c=Gv9DqRpAMivmEW27PaCiYlQshosb4ahKqd70-rWDSFI=")
         )
     ),
 
@@ -139,7 +139,7 @@ val sampleRestaurants = listOf(
         name = "Bakery Delight",
         description = "Panadería",
         imageUrl = "https://images.unsplash.com/photo-1509440159596-0249088772ff",
-        categories = listOf("Saludable"),
+        categories = listOf("Panaderia"),
         menu = listOf(
             Dish(1,"Pan","Dulce","https://images.unsplash.com/photo-1509440159596-0249088772ff"),
             Dish(2,"Donas","Suaves","https://images.unsplash.com/photo-1551024601-bec78aea704b"),
@@ -152,10 +152,10 @@ val sampleRestaurants = listOf(
         name = "Veggie Life",
         description = "Vegetariano",
         imageUrl = "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
-        categories = listOf("Saludable", "Mexicana"),
+        categories = listOf("Saludable"),
         menu = listOf(
             Dish(1,"Burger Vegana","Lentejas","https://images.unsplash.com/photo-1546069901-ba9599a7e63c"),
-            Dish(2,"Tacos Veganos","Vegetales","https://images.unsplash.com/photo-1601924638867-3ec2f2c7b0d7"),
+            Dish(2,"Tacos Veganos","Vegetales","https://media.istockphoto.com/id/1155044772/es/foto/tortillas-veganas-con-quinoa-esp%C3%A1rragos-frijoles-verduras-y-guacamole.jpg?s=612x612&w=0&k=20&c=VPfyOnmJfCQ_lDMeI5J3Berh_8tnv41qTTUZjtBZXRo="),
             Dish(3,"Ensalada","Detox","https://images.unsplash.com/photo-1550304943-4f24f54ddde9")
         )
     )

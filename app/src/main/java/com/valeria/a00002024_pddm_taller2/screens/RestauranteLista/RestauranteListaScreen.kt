@@ -33,7 +33,7 @@ fun RestauranteListaScreen(
             }) {
                 Icon(
                     imageVector = Icons.AutoMirrored.Filled.ManageSearch,
-                    contentDescription = "Back"
+                    contentDescription = "ToSearch"
                 )
             }
         }
