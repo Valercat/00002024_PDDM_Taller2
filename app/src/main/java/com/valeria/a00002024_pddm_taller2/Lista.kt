@@ -38,8 +38,8 @@ val sampleRestaurants = listOf(
         categories = listOf("Mexicana"),
         menu = listOf(
             Dish(1,"Tacos al Pastor","Cerdo con piña","https://media.istockphoto.com/id/1131715969/es/foto/una-placa-de-tacos-al-pastor-tortillas-de-ma%C3%ADz-cerdo-afeitado-salsa-pi%C3%B1a-en-rodajas-cilantro.jpg?s=612x612&w=0&k=20&c=X3SUOyO63axNRVIrPB-mCnuxj3vtQCIozVfcp6RwyHw="),
-            Dish(2,"Quesadillas","Con queso","https://images.unsplash.com/photo-1615870216519-2f9fa575fa5c"),
-            Dish(3,"Nachos","Con guacamole","https://images.unsplash.com/photo-1582169296194-e4d644c48063")
+            Dish(2,"Quesadillas","Con queso","https://media.istockphoto.com/id/1137678835/es/foto/cerca-de-pollo-horneado-y-quesadillas-de-queso-servido-con-salsa-y-guacamole-en-placa-de-piedra.jpg?s=612x612&w=0&k=20&c=PO6-YrqSEXQH_4jXeHLLJTk9h1xrxvAWTpyHmcLWxQg="),
+            Dish(3,"Nachos","Con guacamole","https://media.istockphoto.com/id/935958124/es/foto/guacamole-aguacate-lim%C3%B3n-tomate-cebolla-y-cilantro-servido-con-nachos-snack-mexicano-tradicional.jpg?s=612x612&w=0&k=20&c=91QHWgfoY9evDyfRiXX7F-PtB9S47C1kYR62dVpmI-s=")
         )
     ),
 
@@ -91,7 +91,7 @@ val sampleRestaurants = listOf(
         menu = listOf(
             Dish(1,"Camarones","Al ajillo","https://media.istockphoto.com/id/1414307299/es/foto/primer-plano-de-mantequilla-de-ajo-camarones-en-sart%C3%A9n.jpg?s=612x612&w=0&k=20&c=KgxUSMwcEyKz9Q91b3YxgU-b9U4w3O9QtNJiMpXfOx0="),
             Dish(2,"Pulpo","Parrilla","https://media.istockphoto.com/id/1216250666/es/foto/pulpo-frito-sobre-mesa-de-madera.jpg?s=612x612&w=0&k=20&c=Pv9H_DrOTkXPkynPiJCE6jEjPgpcFt4QJO8USh0xH4M="),
-            Dish(3,"Pescado","Frito","https://images.unsplash.com/photo-1544025162-d76694265947")
+            Dish(3,"Pescado","Frito","https://media.istockphoto.com/id/855749956/es/foto/besugo-asado-pescado-con-rodajas-de-lim%C3%B3n.jpg?s=612x612&w=0&k=20&c=h-V3OQpq3EYieW7Fc2H4nAHvr28HSeaj_mkbEQ5sEL0=")
         )
     ),
 
@@ -104,7 +104,7 @@ val sampleRestaurants = listOf(
         menu = listOf(
             Dish(1,"Pad Thai","Fideos","https://media.istockphoto.com/id/510163478/es/foto/pad-thai.jpg?s=612x612&w=0&k=20&c=XAAEOs0ElFsoVl7PmhiubI6yKMx9ci5cMczP0dVmNDg="),
             Dish(2,"Arroz","Frito","https://media.istockphoto.com/id/945606006/es/foto/arroz-frito-de-pollo.jpg?s=612x612&w=0&k=20&c=Esli_5JhEAB5io0KlKcXP5RcaP2pZphOqc-zTJbk6P8="),
-            Dish(3,"Teriyaki","Pollo","https://images.unsplash.com/photo-1553621042-f6e147245754")
+            Dish(3,"Teriyaki","Pollo","https://media.istockphoto.com/id/1879865665/es/foto/pollo-frito-teriyaki-con-arroz-cebolla-verde-y-s%C3%A9samo-casero-sin-gente.jpg?s=612x612&w=0&k=20&c=atPiG4e_zl13EL5GzNXeOMnsOi-9SDgQOP0eMYWFaT0=")
         )
     ),
 
@@ -115,9 +115,9 @@ val sampleRestaurants = listOf(
         imageUrl = "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
         categories = listOf("Panaderia", "Italiana"),
         menu = listOf(
-            Dish(1,"Capuccino","Espuma","https://images.unsplash.com/photo-1511920170033-f8396924c348"),
-            Dish(2,"Cheesecake","Cremoso","https://images.unsplash.com/photo-1551024601-bec78aea704b"),
-            Dish(3,"Croissant","Hojaldre","https://images.unsplash.com/photo-1509440159596-0249088772ff")
+            Dish(1,"Capuccino","Espuma","https://media.istockphoto.com/id/505168330/es/foto/taza-de-caf%C3%A9-con-granos-de-caf%C3%A9-con-leche-y-varillas-de-canela.jpg?s=612x612&w=0&k=20&c=ud_g_RyWoPSEJ4_KkpsQfFuWh3iVPlyiTHqpu69ayEg="),
+            Dish(2,"De mora","Cremoso","https://media.istockphoto.com/id/1207992670/es/foto/dulce-pastel-casero-con-cobertura-de-caramelo-y-nueces-de-nuez-en-la-mesa-de-madera.jpg?s=612x612&w=0&k=20&c=5uKWM1K-V8u9XZB82ezByj4ixOVXiuAU7VX21UiHoao="),
+            Dish(3,"Croissant","Hojaldre","https://media.istockphoto.com/id/1615993303/es/foto/croissants-en-una-parrilla-en-panader%C3%ADa-rellenos-de-crema-cobertura-de-chocolate-y-hojuelas-de.jpg?s=612x612&w=0&k=20&c=N2oMsxcHAe14WMj3xdeLdgYC3vCO7Q7KHBxbLwIWrjI=")
         )
     ),
 
