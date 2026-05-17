@@ -42,6 +42,9 @@ fun AppFoodSpot() {
                 RestauranteBusquedaScreen(
                     navigateBack = {
                         backStack.removeLastOrNull()
+                    },
+                    navigateToDetail = { restaurantId ->
+                        backStack.add(Routes.RestaurantDetail(restaurantId))
                     }
                 )
             }

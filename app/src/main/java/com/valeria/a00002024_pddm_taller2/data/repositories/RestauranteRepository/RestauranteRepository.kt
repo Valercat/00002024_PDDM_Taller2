@@ -12,5 +12,5 @@ interface RestauranteRepository {
     suspend fun getRestauranteById(id: Int): Restaurant?
 
     //query cuando se busque
-    suspend fun searchRestaurantes(query: String): List<Restaurant>
+    suspend fun getSearchRestaurantes(query: String): List<Restaurant>
 }
